@@ -233,3 +233,4 @@ class MainWindow(QMainWindow):
 app = QApplication(sys.argv)
 window = MainWindow()
 sys.exit(app.exec_())
+sys.exit(app.exec_())
